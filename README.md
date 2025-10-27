@@ -19,7 +19,7 @@ You **must manually generate your own SMBIOS**.
 ## ⚙️ Features
 
 - ✅ **AMD SMC support** — via `SMCAMDProcessor.kext`
-- ✅ **RX 6700S GPU** — supported via `Noderx.kext`, full Metal and video acceleration
+- ✅ **RX 6700S GPU** — supported via `NootRX.kext`, full Metal and video acceleration
 - ✅ **Brightness control** — partial, works with [BetterDisplay](https://github.com/waydabber/BetterDisplay)
 - ✅ **ALC285 audio** — works, but not as high quality as in Windows → improve via [eqMac](https://eqmac.app/)
 - ✅ **Touchpad, keyboard, HDMI, 120Hz display, PCIe 4.0 NVMe SSD, USB ports, battery status, webcam** — all working
